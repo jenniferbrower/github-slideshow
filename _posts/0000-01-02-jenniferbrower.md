@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Oh, what a beautiful morning! Oh what a beautiful day!
 Use the left arrow to go back!
